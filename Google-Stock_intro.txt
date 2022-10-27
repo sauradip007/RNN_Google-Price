@@ -1,0 +1,1 @@
+This repository contains the project that predicts the price of a google stock for the year 2017 for the first 3 financial months employing the use of recurrent neural networks with a time step of 60
